@@ -19,12 +19,8 @@ class rope{
 
 		strokeWeight(2);
 
-		//CHOOSE THE CORRECT OPTION TO RENDER A LINE BETWEEN THE TWO BODIES
-
-		// line(pointA.x, pointA.y, pointB.y);
-		 line(pointA.x, pointA.y, pointB.x + this.offsetX, pointB.y);
-		// line(pointA.x, pointA.y, pointB.x + this.offsetX);
-		// line(pointA.x, pointA.y + this.offsetX, pointB.x, pointB.y);
+		//WRITE THE CORRECR CODE TO RENDER A LINE BETWEEN THE TWO BODIES
+]
 	}
 
 }
